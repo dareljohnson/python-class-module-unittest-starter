@@ -1,0 +1,3 @@
+# ignore ALL coverage files
+coverage
+htmlcov
