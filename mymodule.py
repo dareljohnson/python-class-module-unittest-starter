@@ -4,6 +4,6 @@ class MyModule:
     @staticmethod
     def greeting(name) -> str:
         result = "Hello, " + name
-        print(result)
+        # print(result)
 
         return result
