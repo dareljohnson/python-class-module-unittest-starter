@@ -1,3 +1,6 @@
 # ignore ALL coverage files
-coverage
+.coverage
 htmlcov
+
+.idea
+__pycache__
